@@ -2,7 +2,7 @@
 
 mike — developer
 
-15 y/o · coder · future cybersecurity professional
+15 y/o · coder · future cybersecurity student
 
 <img src="https://wallpaperaccess.com/full/8077555.png">
 
@@ -54,26 +54,16 @@ current focus
 </tr>
 </table>
 
-github activity
+
 
 <div align="center">
 <img src="https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif"/>
-<br>
 
+  
+<br>
+github activity
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" width="70%"/>
 
-</div>
-
-
-
-I'm open to coding work, collaborations, and interesting projects.
-
-If you have something you'd like me to build or work on,
-feel free to reach out.
-
-<div align="center">
-
-learning something new every day.
 
 
 

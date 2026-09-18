@@ -35,9 +35,9 @@ stack
 
 <br><br>
 
-Python · Comfortable
-HTML · Comfortable
-CSS · Comfortable
+Python · Learning
+HTML · Learning
+CSS · Learning
 C++ · Learning
 
 </td>
@@ -68,7 +68,6 @@ github activity
 
 </div>
 
-projects
 
 
 I'm open to coding work, collaborations, and interesting projects.
@@ -80,8 +79,8 @@ feel free to reach out.
 
 learning something new every day.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2563eb&label=profile+views" />
+
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+

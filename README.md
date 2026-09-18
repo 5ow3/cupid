@@ -57,11 +57,11 @@ current focus
 
 
 <div align="center">
-<img src="https://cloudblogger.co.in/wp-content/uploads/2022/01/giphy-3.gif"/>
 
+github activity
   
 <br>
-github activity
+
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" width="70%"/>
 
 

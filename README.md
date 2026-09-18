@@ -4,7 +4,7 @@ mike — developer
 
 15 y/o · coder · future cybersecurity professional
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=build.%20learn.%20secure.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://wallpaperaccess.com/full/8077555.png">
 
 </div>
 

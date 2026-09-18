@@ -70,21 +70,6 @@ github activity
 
 projects
 
-A few things I'm interested in building and experimenting with.
-
-[01] python tools
-     └─ automation, utilities & experiments
-
-[02] web projects
-     └─ HTML / CSS based projects
-
-[03] cybersecurity
-     └─ learning, research & security-focused projects
-
-[04] experiments
-     └─ trying new technologies and ideas
-
-open for work
 
 I'm open to coding work, collaborations, and interesting projects.
 
